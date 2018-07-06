@@ -1,0 +1,57 @@
+{
+	"Hans": {
+		"Deutsch": "1",
+		"Englisch": "2",
+		"Mathe": "3"
+	},
+	"Dieter": {
+		"Deutsch": "4",
+		"Englisch": "2",
+		"Mathe": "5"
+	},
+	"Peter": {
+		"Deutsch": "3",
+		"Englisch": "2",
+		"Mathe": "1"
+	},
+	"Juergen": {
+		"Deutsch": "1",
+		"Englisch": "1",
+		"Mathe": "2"
+	},
+	"Marie": {
+		"Deutsch": "1",
+		"Englisch": "4",
+		"Mathe": "3"
+	},
+	"Tayfun": {
+		"Deutsch": "1",
+		"Englisch": "5",
+		"Mathe": "1"
+	},
+	"Rabea": {
+		"Deutsch": "1",
+		"Englisch": "1",
+		"Mathe": "1"
+	},
+	"Mehmet": {
+		"Deutsch": "2",
+		"Englisch": "6",
+		"Mathe": "2"
+	},
+	"David": {
+		"Deutsch": "1",
+		"Englisch": "2",
+		"Mathe": "3"
+	},
+	"Özil": {
+		"Deutsch": "1",
+		"Englisch": "4",
+		"Mathe": "3"
+	},
+	"Müller": {
+		"Deutsch": "3",
+		"Englisch": "3",
+		"Mathe": "3"
+	}
+}
