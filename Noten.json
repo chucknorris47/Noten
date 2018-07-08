@@ -2,7 +2,7 @@
 	"Hans": {
 		"Deutsch": "1",
 		"Englisch": "2",
-		"Mathe": "3"
+		"Mathe": "6"
 	},
 	"Dieter": {
 		"Deutsch": "4",
@@ -12,17 +12,17 @@
 	"Peter": {
 		"Deutsch": "3",
 		"Englisch": "2",
-		"Mathe": "1"
+		"Mathe": "6"
 	},
 	"Juergen": {
 		"Deutsch": "1",
 		"Englisch": "1",
-		"Mathe": "2"
+		"Mathe": "6"
 	},
 	"Marie": {
 		"Deutsch": "1",
 		"Englisch": "4",
-		"Mathe": "3"
+		"Mathe": "4"
 	},
 	"Tayfun": {
 		"Deutsch": "1",
@@ -32,26 +32,26 @@
 	"Rabea": {
 		"Deutsch": "1",
 		"Englisch": "1",
-		"Mathe": "1"
+		"Mathe": "6"
 	},
 	"Mehmet": {
 		"Deutsch": "2",
 		"Englisch": "6",
-		"Mathe": "2"
+		"Mathe": "6"
 	},
 	"David": {
 		"Deutsch": "1",
 		"Englisch": "2",
-		"Mathe": "3"
+		"Mathe": "6"
 	},
 	"Özil": {
 		"Deutsch": "1",
 		"Englisch": "4",
-		"Mathe": "3"
+		"Mathe": "6"
 	},
 	"Müller": {
 		"Deutsch": "3",
 		"Englisch": "3",
-		"Mathe": "3"
+		"Mathe": "6"
 	}
 }
